@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0504_t001">選擇結果:</string>
+    <string name="m0504_titem">群組選項</string>
+    <string name="m0504_tsubitem">子選項</string>
+    <string name="m0504_tdesc">群組說明</string>
+    <string name="m0504_tsubdesc">子選項說明</string>
+    <string name="m0504_title">聯絡方式</string>
+
+    <string name="m0504_a00">學校總機</string>
+    <string name="m0504_a01">學務處</string>
+    <string name="m0504_a02">教務處</string>
+    <string name="m0504_a03">輔導處</string>
+    <string name="m0504_a04">總務處</string>
+    <string name="m0504_a05">導師辦公室</string>
+
+    <string name="m0504_a000">校長室 </string>
+    <string name="m0504_a001">秘書室</string>
+    <string name="m0504_a002">校史室</string>
+    <string name="m0504_a010">生輔組</string>
+    <string name="m0504_a011">衛生組</string>
+    <string name="m0504_a012">體育組</string>
+    <string name="m0504_a020">註冊組</string>
+    <string name="m0504_a021">教學組</string>
+    <string name="m0504_a022">資訊組</string>
+    <string name="m0504_a030">輔導組</string>
+    <string name="m0504_a031">特教組</string>
+    <string name="m0504_a032">諮商室</string>
+    <string name="m0504_a040">事務組</string>
+    <string name="m0504_a041">文書組</string>
+    <string name="m0504_a042">出納組</string>
+    <string name="m0504_a050">一二年級</string>
+    <string name="m0504_a051">三四年級</string>
+    <string name="m0504_a052">五六年級</string>
+
+</resources>

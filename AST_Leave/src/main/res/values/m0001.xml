@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0001_tt01">起始時間</string>
+    <string name="m0001_tt02">結束時間</string>
+    <string name="m0001_tt03">假別</string>
+    <string name="m0001_tt04">事由</string>
+    <string name="m0001_bn01">請選擇開始請假日期</string>
+    <string name="m0001_bn02">請選擇結束請假日期</string>
+    <string name="m0001_bn03">送出</string>
+    <string name="m0001_spn01">選擇開始時間</string>
+    <string name="m0001_spn02">選擇結束時間</string>
+    <string name="m0001_spn03">選擇假別</string>
+    <string name="m0001_et01">請假原因</string>
+
+    <string-array name="time">
+        <item>第1節</item>
+        <item>第2節</item>
+        <item>第3節</item>
+        <item>第4節</item>
+        <item>第5節</item>
+        <item>第6節</item>
+        <item>第7節</item>
+    </string-array>
+
+    <string-array name="leave">
+        <item>病假</item>
+        <item>事假</item>
+        <item>公假</item>
+        <item>喪假</item>
+    </string-array>
+
+</resources>

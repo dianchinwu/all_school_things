@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/Padding10"
+    tools:context=".M0001">
+
+    <TextView
+        android:id="@+id/m0001_tt01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/Padding10"
+        android:text="@string/m0001_tt01"
+        android:textSize="18sp" />
+
+    <TableRow
+        android:id="@+id/m0001_tr01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/pa01">
+
+        <Button
+            android:id="@+id/m0001_bn01"
+            style="@style/Base.Widget.AppCompat.Button"
+            android:layout_width="@dimen/Padding200"
+            android:layout_height="wrap_content"
+            android:text="@string/m0001_bn01"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/m0001_spn01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@string/m0001_spn01"
+            android:spinnerMode="dialog"
+            android:textAlignment="center" />
+
+    </TableRow>
+
+    <TextView
+        android:id="@+id/m0001_tt02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/pa01"
+        android:layout_marginEnd="@dimen/Padding10"
+        android:text="@string/m0001_tt02"
+        android:textSize="18sp" />
+
+    <TableRow
+        android:id="@+id/m0001_tr02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/pa01">
+
+        <Button
+            android:id="@+id/m0001_bn02"
+            style="@style/Base.Widget.AppCompat.Button"
+            android:layout_width="@dimen/Padding200"
+            android:layout_height="wrap_content"
+            android:text="@string/m0001_bn02"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/m0001_spn02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@string/m0001_spn02"
+            android:spinnerMode="dialog"
+            android:textAlignment="center" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/m0001_tr03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/pa01"
+        android:padding="@dimen/pa01">
+
+        <TextView
+            android:id="@+id/m0001_tt03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/Padding10"
+            android:text="@string/m0001_tt03"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/m0001_spn03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@string/m0001_spn03" />
+    </TableRow>
+
+    <TextView
+        android:id="@+id/m0001_tt04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/pa01"
+        android:padding="@dimen/pa01"
+        android:text="@string/m0001_tt04"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/m0001_et01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/m0001_et01"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/m0001_bn03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/Padding100"
+        android:text="@string/m0001_bn03"
+        android:textSize="18sp" />
+
+</LinearLayout>

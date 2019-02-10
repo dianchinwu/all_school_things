@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/Padding10"
+    tools:context=".M0003">
+
+
+    <TextView
+        android:id="@+id/m0003_tt00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/m0003_tt00"
+        android:textAlignment="center"
+        android:textSize="21sp" />
+
+    <TableRow
+        android:id="@+id/m0003_tr01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m0003_tt001"
+            android:layout_width="@dimen/Padding_a"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginsize"
+            android:text="@string/m0003_tt01"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/m0003_tt01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Mistyrose"
+            android:textSize="18sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/m0003_tr02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m0003_tt002"
+            android:layout_width="@dimen/Padding_a"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginsize"
+            android:text="@string/m0003_tt02"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/m0003_tt02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Mistyrose"
+            android:textSize="18sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/m0003_tr03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m0003_tt003"
+            android:layout_width="@dimen/Padding_a"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginsize"
+            android:text="@string/m0003_tt03"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/m0003_tt03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Mistyrose"
+            android:textSize="18sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/m0003_tr04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m0003_tt004"
+            android:layout_width="@dimen/Padding_a"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginsize"
+            android:text="@string/m0003_tt04"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/m0003_tt04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Mistyrose"
+            android:textSize="18sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/m0003_tr05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/m0003_tt005"
+            android:layout_width="@dimen/Padding_a"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/marginsize"
+            android:text="@string/m0003_tt05"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/m0003_tt05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Mistyrose"
+            android:textSize="18sp" />
+    </TableRow>
+
+</LinearLayout>

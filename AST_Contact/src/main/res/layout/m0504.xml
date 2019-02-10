@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/m0504_t001"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/Spacing"
+        android:background="@color/White"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/pad5"
+        android:text="@string/m0504_title"
+        android:textSize="24sp" />
+
+    <ExpandableListView
+        android:id="@+id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:background="@color/Silver"
+        android:childDivider="@color/White"
+        android:listSelector="#00000000">
+        <!--android:layoutDirection="rtl"-->
+
+    </ExpandableListView>
+
+    <!--<TextView-->
+        <!--android:id="@+id/myname"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/myname"-->
+        <!--android:textAlignment="textEnd"-->
+        <!--android:textSize="18sp" />-->
+
+
+</LinearLayout>
+
+    <!--android:childDivider="#885D7081"-->
+    <!--子項目分隔線-->
+    <!--android:choiceMode="singleChoice"-->
+    <!--android:divider="#88455869"-->
+    <!--android:dividerHeight="1px"-->
+    <!--android:groupIndicator="@null"-->
+    <!--android:listSelector="#00000000"-->
+    <!--android:scrollingCache="false"-->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0003_title">健康記錄</string>
+    <string name="m0003_tt00">學期</string>
+    <string name="m0003_tt01">身高(cm)</string>
+    <string name="m0003_tt02">體重(kg)</string>
+    <string name="m0003_tt03">BMI值</string>
+    <string name="m0003_tt04">BMI值建議</string>
+    <string name="m0003_tt05">視力L / R</string>
+
+    <string-array name="m0003_semester">
+        <item>1-1學期</item>
+        <item>1-2學期</item>
+        <item>2-1學期</item>
+        <item>2-2學期</item>
+        <item>3-1學期</item>
+        <item>3-2學期</item>
+    </string-array>
+
+    <string-array name="m0003_height">
+        <item>110</item>
+        <item>120</item>
+        <item>130</item>
+        <item>140</item>
+        <item>150</item>
+        <item>160</item>
+    </string-array>
+
+    <string-array name="m0003_weight">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </string-array>
+
+</resources>

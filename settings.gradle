@@ -1,0 +1,5 @@
+include 'AST_Contact', 'AST_Map'
+include  'AST_Health'
+include  'AST_Home'
+include  'AST_Leave'
+include  'AST_Signin'
